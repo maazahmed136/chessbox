@@ -1,0 +1,20 @@
+*
+{
+    padding: 0;
+    width: 0;
+    box-sizing: border-box;
+}
+.one
+{
+    border: 85px solid white;
+    height: 20px; 
+    width: 20px; 
+} 
+.two
+{
+    border: 85px solid black;
+}
+.main
+{
+    display: flex;
+}
